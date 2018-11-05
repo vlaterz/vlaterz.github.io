@@ -1,0 +1,59 @@
+#page-title {
+    border-color: #bbb;
+    border-top-color: rgb(187, 187, 187);
+    border-right-color: rgb(187, 187, 187);
+    border-bottom-color: rgb(187, 187, 187);
+    border-left-color: rgb(187, 187, 187);
+
+    color: #901;
+    padding: 0 0 0.25em;
+    margin: 0 0 0.6em;
+    font-weight: normal;
+
+    margin: 0 0 0.5em 0;
+    padding-top: 0.5em;
+    font-size: 200%;
+    border-bottom: 1px solid #666;
+    border-bottom-width: 1px;
+    border-bottom-style: solid;
+    border-bottom-color: rgb(102, 102, 102);
+}
+
+#container {
+	margin: 0;
+	padding: 0;
+}
+
+#page-top{
+	background-image: url('images/background.jpg');
+}
+
+#header {
+	position: relative;
+	z-index: 30;
+	height: 7em;
+}
+
+#header h1 {
+    color: #eeee;
+    background: transparent;
+    font-family: BauhausLTDemi, Arial, sans-serif;
+    font-size: 180%;
+    text-decoration: none;
+    text-decoration-line: none;
+    text-decoration-style: initial;
+    text-decoration-color: initial;
+    text-shadow: 3px 3px 5px #000;
+    letter-spacing: 0.9px;
+	margin-left: 120px;
+	float: left;
+}
+#header h2 {
+	margin-left: 120px;
+    padding: 0;
+    clear: left;
+    float: left;
+    font-size: 200%;
+    max-height: 38px;
+}
+
